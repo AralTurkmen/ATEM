@@ -21,6 +21,6 @@
 		Need a robust Hashing function
 	OS notification when time is coming to an end
 
+Must be lightweight, better to be multi OS compatible if possible, dynamic resolution.
 
-	
 
