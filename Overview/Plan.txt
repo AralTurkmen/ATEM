@@ -1,0 +1,26 @@
+- Equipment Class
+	Serial number
+	Modell
+	Manufacturer
+	Lifespan (Start and end)
+	Warranty (Start and end)
+
+- OS, dynamic calender
+
+- GUI
+	4 Windows
+		Calender with lifespan and warranty
+		Warning and upcoming expirations
+		Inspection of a selected equipment
+		Searching / Filtering between different manufacturer, adding or deleting equipment
+		
+
+- Logic
+	Storing equipment in Json files
+	Sorting in Hashtable
+		Need a robust Hashing function
+	OS notification when time is coming to an end
+
+
+	
+
