@@ -23,4 +23,5 @@
 
 Must be lightweight, better to be multi OS compatible if possible, dynamic resolution.
 
+JDK = Eclipse Temurin 25
 
