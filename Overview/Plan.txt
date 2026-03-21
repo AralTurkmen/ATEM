@@ -23,7 +23,14 @@
 
 Must be lightweight, better to be multi OS compatible if possible, dynamic resolution.
 
+Android implementation
+
+MYSQL for cross platform
+
 JDK = Eclipse Temurin 25
 
 Usage of JavaDoc?!
 
+JavaFX
+
+Plugin compatibilty for custom classes?
