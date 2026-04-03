@@ -1,0 +1,7 @@
+Algorithm overview:
+
+Start a endless loop Main
+
+Create a list for every different type of schedule class
+
+Look if ATEM.json excist

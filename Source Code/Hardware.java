@@ -1,6 +1,6 @@
 import java.time.LocalDate;
 
-Public class Hardware {
+public class Hardware {
 
     private String name;
     private String manufacturer;
@@ -14,9 +14,13 @@ Public class Hardware {
         this.purchaseDate = purchaseDate;
     }
     public String getName(){
+
         return name;
+
     }
     public String getManufacturer(){
+
         return manufacturer;
+
     }
 }
